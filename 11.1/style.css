@@ -1,0 +1,26 @@
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.interests-label {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: baseline;
+}
+
+.comment-label {
+    display: flex;
+    flex-direction: column;
+}
+
+.comment {
+    width: 500px;
+    height: 100px;
+}
+
+.submit {
+    width: 100px;
+}
